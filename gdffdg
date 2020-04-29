@@ -1,0 +1,30 @@
+[33mcommit a7a7b09e513d7dd3a9b1c01419b55505e2be3647[m[33m ([m[1;36mHEAD[m[33m)[m
+Merge: fda3ae3 0998e67
+Author: prnayak17 <prnayak17@gmail.comgit config --global user.email prnayak17@gmail.comgit config --global user.email prnayak17@gmail.com>
+Date:   Thu Apr 30 00:05:34 2020 +0530
+
+    Merge branch 'master' of https://github.com/Rakesh1788/GitProjUpload into HEAD
+
+[33mcommit 0998e67793535697a587b7771f745b749bf91197[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Rakesh1788 <62323041+Rakesh1788@users.noreply.github.com>
+Date:   Thu Apr 30 00:02:45 2020 +0530
+
+    Create testfile
+
+[33mcommit 00ec1297bae95518449136cbb659389fbc5146ee[m
+Author: Rakesh1788 <62323041+Rakesh1788@users.noreply.github.com>
+Date:   Wed Apr 29 23:56:59 2020 +0530
+
+    Delete README.md
+
+[33mcommit b17e2dd45b240b1eb18485ab6f25205aaa9d7e65[m
+Author: Rakesh1788 <62323041+Rakesh1788@users.noreply.github.com>
+Date:   Wed Apr 29 23:53:15 2020 +0530
+
+    Initial commit
+
+[33mcommit fda3ae38e515553e871e1b8a2d9db505337cd1cb[m[33m ([m[1;32mfirstcommit[m[33m)[m
+Author: prnayak17 <prnayak17@gmail.comgit config --global user.email prnayak17@gmail.comgit config --global user.email prnayak17@gmail.com>
+Date:   Wed Apr 29 23:48:41 2020 +0530
+
+    upload project to github
